@@ -16,5 +16,6 @@ addons:
 cache:
   directories:
     - mruby
+    - build/mrbgems
 script:
 - rake test
