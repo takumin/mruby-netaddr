@@ -8,5 +8,6 @@ MRuby::Gem::Specification.new('mruby-netaddr') do |spec|
 
   spec.add_dependency 'mruby-kernel-ext',  core: 'mruby-kernel-ext'
   spec.add_dependency 'mruby-string-ext',  core: 'mruby-string-ext'
+  spec.add_dependency 'mruby-bignum',      mgem: 'mruby-bignum'
   spec.add_dependency 'mruby-onig-regexp', mgem: 'mruby-onig-regexp'
 end
