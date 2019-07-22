@@ -2,4 +2,4 @@
 
 # mruby-netaddr
 
-Origin: https://github.com/dspinhirne/netaddr-rb
+mruby porting from https://github.com/dspinhirne/netaddr-rb
